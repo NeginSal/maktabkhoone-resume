@@ -1,0 +1,28 @@
+html,
+body{
+  height:100%;
+  margin:0;
+  font-family:'Indie Flower', cursive;
+  font-size: x-large;
+}
+.changetheme {
+  float: left;
+  
+ 
+}
+.changetheme img{
+  width: 30px;
+  position: fixed;
+  padding: 10px;
+}
+.changetheme img:hover{
+  background: #ddd;
+  color: black;
+}
+
+
+
+
+
+
+

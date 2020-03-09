@@ -1,0 +1,86 @@
+{
+    "title":"Hello I'm Negin",
+    "subtitle":"Full Stack Dev | Chess player",
+    "links":{
+        "github":"https://github.com/NeginSal",
+        "linkedin":"https://www.linkedin.com/in/negin-saljooghi-06835b174/",
+        "fide chess profile":"http://ratings.fide.com/card.phtml?event=32711522"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items": [
+                {
+                    "type":"p",
+                    "content":"I love to learn."
+                },
+                {
+                    "type":"p",
+                    "content":"I belive in self learning."
+                }
+               
+            ]
+
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/react.png",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/html.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/css.png",
+                        "title":"CSS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/javascript.png",
+                        "title":"JavaScript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/php.png",
+                        "title":"php"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/seo.png",
+                        "title":"SEO"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/wordpress.png",
+                        "title":"WordPress"
+                    }
+                }
+            ]
+
+        }
+    
+    ],
+    "icons":{
+        "down": "images/down.png"
+    }
+
+}

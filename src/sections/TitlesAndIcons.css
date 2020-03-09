@@ -1,0 +1,15 @@
+.first{
+    background-color:cadetblue;
+    color: white;
+  }
+
+  .icon{
+    margin: 10px;
+  }
+
+  .icons-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
