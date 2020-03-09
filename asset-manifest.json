@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/NeginSal/maktabkhoone-resume/static/css/main.1b5325d2.chunk.css",
-    "main.js": "/NeginSal/maktabkhoone-resume/static/js/main.5e7b5e8e.chunk.js",
-    "main.js.map": "/NeginSal/maktabkhoone-resume/static/js/main.5e7b5e8e.chunk.js.map",
-    "runtime-main.js": "/NeginSal/maktabkhoone-resume/static/js/runtime-main.5abadaf7.js",
-    "runtime-main.js.map": "/NeginSal/maktabkhoone-resume/static/js/runtime-main.5abadaf7.js.map",
-    "static/js/2.e94668d0.chunk.js": "/NeginSal/maktabkhoone-resume/static/js/2.e94668d0.chunk.js",
-    "static/js/2.e94668d0.chunk.js.map": "/NeginSal/maktabkhoone-resume/static/js/2.e94668d0.chunk.js.map",
-    "index.html": "/NeginSal/maktabkhoone-resume/index.html",
-    "precache-manifest.966af0ae6f0a6ee65eba71c055e24bfd.js": "/NeginSal/maktabkhoone-resume/precache-manifest.966af0ae6f0a6ee65eba71c055e24bfd.js",
-    "service-worker.js": "/NeginSal/maktabkhoone-resume/service-worker.js",
-    "static/css/main.1b5325d2.chunk.css.map": "/NeginSal/maktabkhoone-resume/static/css/main.1b5325d2.chunk.css.map",
-    "static/js/2.e94668d0.chunk.js.LICENSE.txt": "/NeginSal/maktabkhoone-resume/static/js/2.e94668d0.chunk.js.LICENSE.txt"
+    "main.css": "/maktabkhoone-resume/static/css/main.1b5325d2.chunk.css",
+    "main.js": "/maktabkhoone-resume/static/js/main.37b20eea.chunk.js",
+    "main.js.map": "/maktabkhoone-resume/static/js/main.37b20eea.chunk.js.map",
+    "runtime-main.js": "/maktabkhoone-resume/static/js/runtime-main.5b183fe7.js",
+    "runtime-main.js.map": "/maktabkhoone-resume/static/js/runtime-main.5b183fe7.js.map",
+    "static/js/2.9c1e0626.chunk.js": "/maktabkhoone-resume/static/js/2.9c1e0626.chunk.js",
+    "static/js/2.9c1e0626.chunk.js.map": "/maktabkhoone-resume/static/js/2.9c1e0626.chunk.js.map",
+    "index.html": "/maktabkhoone-resume/index.html",
+    "precache-manifest.2c8e8b66138855ad8406e1912c9a0cf3.js": "/maktabkhoone-resume/precache-manifest.2c8e8b66138855ad8406e1912c9a0cf3.js",
+    "service-worker.js": "/maktabkhoone-resume/service-worker.js",
+    "static/css/main.1b5325d2.chunk.css.map": "/maktabkhoone-resume/static/css/main.1b5325d2.chunk.css.map",
+    "static/js/2.9c1e0626.chunk.js.LICENSE.txt": "/maktabkhoone-resume/static/js/2.9c1e0626.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5abadaf7.js",
-    "static/js/2.e94668d0.chunk.js",
+    "static/js/runtime-main.5b183fe7.js",
+    "static/js/2.9c1e0626.chunk.js",
     "static/css/main.1b5325d2.chunk.css",
-    "static/js/main.5e7b5e8e.chunk.js"
+    "static/js/main.37b20eea.chunk.js"
   ]
 }
